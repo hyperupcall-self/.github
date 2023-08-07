@@ -8,6 +8,7 @@ My configuration presets and sample apps. They can be broken up into three categ
 - [stylelint-config-hyperupcall](https://github.com/fox-land/stylelint-config-hyperupcall)
 - [stylelint-hyperupcall](https://github.com/fox-land/stylelint-hyperupcall)
 - [lefthook-config-hyperupcall](https://github.com/fox-land/lefthook-config-hyperupcall)
+- [hyperupcall-action](https://github.com/fox-land/hyperupcall-action)
 
 ## Applications
 
