@@ -1,5 +1,13 @@
 My configuration presets and sample apps. They can be broken up into three categories:
 
+## Group Things
+
+- [containers](https://github.com/fox-land/containers)
+- [slides](https://github.com/fox-land/slides)
+- [boxes](https://github.com/fox-land/boxes)
+- [devcontainers](https://github.com/fox-land/devcontainers)
+- [stars](https://github.com/fox-land/stars)
+
 ## Library Configurations
 
 - [prettier-config](https://github.com/fox-land/prettier-config)
