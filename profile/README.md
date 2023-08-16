@@ -4,6 +4,7 @@ My configuration presets and sample apps. They can be broken up into three categ
 
 - [containers](https://github.com/fox-land/containers)
 - [slides](https://github.com/fox-land/slides)
+- [templates](https://github.com/fox-land/templates)
 - [boxes](https://github.com/fox-land/boxes)
 - [devcontainers](https://github.com/fox-land/devcontainers)
 - [stars](https://github.com/fox-land/stars)
