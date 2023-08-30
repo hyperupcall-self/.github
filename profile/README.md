@@ -16,6 +16,7 @@ My configuration presets and sample apps. They can be broken up into three categ
 - [eslint-plugin-hyperupcall](https://github.com/fox-land/eslint-plugin-hyperupcall)
 - [stylelint-config-hyperupcall](https://github.com/fox-land/stylelint-config-hyperupcall)
 - [stylelint-hyperupcall](https://github.com/fox-land/stylelint-hyperupcall)
+- [obsidian-hyperupcall](https://github.com/fox-land/obsidian-hyperupcall)
 - [lefthook-config-hyperupcall](https://github.com/fox-land/lefthook-config-hyperupcall)
 - [hyperupcall-action](https://github.com/fox-land/hyperupcall-action)
 
