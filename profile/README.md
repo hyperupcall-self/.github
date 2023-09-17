@@ -1,4 +1,4 @@
-My configuration presets and sample apps. They can be broken up into three categories:
+[Edwin's](https://github.com/hyperupcall) configuration presets and sample apps. They can be broken up into three categories:
 
 ## Group Things
 
