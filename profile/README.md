@@ -13,11 +13,12 @@
 
 ## Configuration Repositories
 
-- [prettier-config](https://github.com/fox-land/prettier-config)
-- [eslint-config](https://github.com/fox-land/eslint-config)
+- [prettier-config-hyperupcall](https://github.com/fox-land/prettier-config-hyperupcall)
+- [eslint-config-hyperupcall](https://github.com/fox-land/eslint-config-hyperupcall)
 - [eslint-plugin-hyperupcall](https://github.com/fox-land/eslint-plugin-hyperupcall)
 - [stylelint-config-hyperupcall](https://github.com/fox-land/stylelint-config-hyperupcall)
 - [stylelint-hyperupcall](https://github.com/fox-land/stylelint-hyperupcall)
+- [markdownlint-config-hyperupcall](https://github.com/fox-land/markdownlint-config-hyperupcall)
 - [obsidian-hyperupcall](https://github.com/fox-land/obsidian-hyperupcall)
 - [lefthook-config-hyperupcall](https://github.com/fox-land/lefthook-config-hyperupcall)
 - [hyperupcall-action](https://github.com/fox-land/hyperupcall-action)
