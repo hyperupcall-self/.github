@@ -10,6 +10,7 @@
 - [stars](https://github.com/fox-land/stars)
 - [transactions](https://github.com/fox-land/transactions)
 - [configs](https://github.com/fox-land/configs)
+- [pkgbuilds](https://github.com/fox-land/pkgbuilds)
 
 ## Configuration Repositories
 
@@ -21,6 +22,7 @@
 - [markdownlint-config-hyperupcall](https://github.com/fox-land/markdownlint-config-hyperupcall)
 - [obsidian-hyperupcall](https://github.com/fox-land/obsidian-hyperupcall)
 - [lefthook-config-hyperupcall](https://github.com/fox-land/lefthook-config-hyperupcall)
+- [sublime-hyperupcall](https://github.com/fox-land/sublime-hyperupcall)
 - [hyperupcall-action](https://github.com/fox-land/hyperupcall-action)
 
 ## Application Repositories
