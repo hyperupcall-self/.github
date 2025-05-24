@@ -11,18 +11,18 @@
 
 ## Configuration
 
-- [hyperupcall-scripts-nodejs](https://github.com/fox-self/hyperupcall-scripts-nodejs)
-- [prettier-config-hyperupcall](https://github.com/fox-self/prettier-config-hyperupcall)
-- [eslint-config-hyperupcall](https://github.com/fox-self/eslint-config-hyperupcall)
-- [eslint-plugin-hyperupcall](https://github.com/fox-self/eslint-plugin-hyperupcall)
-- [stylelint-config-hyperupcall](https://github.com/fox-self/stylelint-config-hyperupcall)
-- [stylelint-hyperupcall](https://github.com/fox-self/stylelint-hyperupcall)
-- [markdownlint-config-hyperupcall](https://github.com/fox-self/markdownlint-config-hyperupcall)
+- [scripts-nodejs](https://github.com/fox-self/scripts-nodejs)
+- [prettier-config](https://github.com/fox-self/prettier-config)
+- [eslint-config](https://github.com/fox-self/eslint-config)
+- [eslint-plugin](https://github.com/fox-self/eslint-plugin)
+- [stylelint-config](https://github.com/fox-self/stylelint-config)
+- [stylelint-plugin](https://github.com/fox-self/stylelint-plugin)
+- [markdownlint-config](https://github.com/fox-self/markdownlint-config)
 - [obsidian-hyperupcall](https://github.com/fox-self/obsidian-hyperupcall)
-- [lefthook-config-hyperupcall](https://github.com/fox-self/lefthook-config-hyperupcall)
+- [lefthook-config](https://github.com/fox-self/lefthook-config)
 - [sublime-hyperupcall](https://github.com/fox-self/sublime-hyperupcall)
 - [hyperupcall-action](https://github.com/fox-self/hyperupcall-action)
-- [hyperupcall-config-utils](https://github.com/fox-self/hyperupcall-config-utils)
+- [config-utils](https://github.com/fox-self/config-utils)
 
 ## Application
 
