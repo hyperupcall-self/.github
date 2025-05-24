@@ -18,14 +18,14 @@
 - [stylelint-config](https://github.com/fox-self/stylelint-config)
 - [stylelint-plugin](https://github.com/fox-self/stylelint-plugin)
 - [markdownlint-config](https://github.com/fox-self/markdownlint-config)
-- [obsidian-hyperupcall](https://github.com/fox-self/obsidian-hyperupcall)
 - [lefthook-config](https://github.com/fox-self/lefthook-config)
-- [sublime-hyperupcall](https://github.com/fox-self/sublime-hyperupcall)
 - [hyperupcall-action](https://github.com/fox-self/hyperupcall-action)
 - [config-utils](https://github.com/fox-self/config-utils)
 
 ## Application
 
+- [obsidian-hyperupcall](https://github.com/fox-self/obsidian-hyperupcall)
+- [sublime-hyperupcall](https://github.com/fox-self/sublime-hyperupcall)
 - [webext-hyperupcall](https://github.com/fox-self/webext-hyperupcall)
 - [vscode-hyperupcall-packs](https://github.com/fox-self/vscode-hyperupcall-packs)
 - [vscode-hyperupcall](https://github.com/fox-self/vscode-hyperupcall)
